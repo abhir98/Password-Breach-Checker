@@ -17,6 +17,10 @@ $ pip3 install -r requirements.txt
 python pwned.py -p <your password here>
 ```
 
+## Tested on
+- Kali Linux 
+- Ubuntu
+
 ## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
