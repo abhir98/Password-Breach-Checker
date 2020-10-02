@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import hashlib
 import requests
 import argparse
@@ -54,7 +52,6 @@ else:
 '''
 -References-
 https://haveibeenpwned.com/API/v3#PwnedPasswords
-https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/
 
 '''
 
